@@ -25,7 +25,7 @@ var VERSIONS = [
    new password, e.g. run btoa("newpassword") in any browser console
    and paste the result below.
    ============================================================= */
-var GATE_PW_B64 = "Rmluy2FydDIwMjY="; // btoa("Fincart2026")
+var GATE_PW_B64 = "RmluY2FydDIwMjY="; // btoa("Fincart2026")
 
 function siteInitGate(){
   var wall = document.getElementById('gatewall');
